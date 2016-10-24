@@ -11,7 +11,7 @@ Feedback Loop (Prediction accuracy is increased and the best combination of algo
 # Mongo DB
 Scalable back-end DB with Mongo DB
 
-=Algorithms Supported=
+# Algorithms Supported
 Collaborative Filtering Algorithm
 Content-Based Filtering Algorithm - with item and/or user vectors 
 Support Vector Machines
