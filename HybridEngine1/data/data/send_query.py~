@@ -1,0 +1,12 @@
+
+import json
+import predictionio
+
+engine_client = predictionio.EngineClient(url="http://localhost:8000")
+PredictionOutput = engine_client.send_query({"user": "642", "num": 12})
+print PredictionOutput
+
+#fo = open("txtop.txt","w")
+#print "Name of the file: ", fo.name
+#print engine_client.send_query({"user": "942", "num": 8})
+json.dump(PredictionOutput, open("txtop.txt",'w'), indent=4)

@@ -1,0 +1,155 @@
+{
+    "itemScores": [
+        {
+            "item": "793", 
+            "score": 8.108113922012983, 
+            "fitem": {
+                "release": "1993", 
+                "url": "http://ia.media-imdb.com/images/M/MV5BMTM2MjE5MTQ5MF5BMl5BanBnXkFtZTcwOTMzNzcyMQ@@._V1._SX214_CR0,0,214,314_.jpg", 
+                "genres": [
+                    "Drama"
+                ], 
+                "title": "En compagnie d'Antonin Artaud"
+            }
+        }, 
+        {
+            "item": "362", 
+            "score": 7.077596467545356, 
+            "fitem": {
+                "release": "1967", 
+                "url": "http://ia.media-imdb.com/images/M/MV5BMTM1NTU2ODExOV5BMl5BanBnXkFtZTcwMTU0NjM1MQ@@._V1._SY314_CR4,0,214,314_.jpg", 
+                "genres": [
+                    "Adventure", 
+                    "Children", 
+                    "Romance"
+                ], 
+                "title": "The Jungle Book"
+            }
+        }, 
+        {
+            "item": "1150", 
+            "score": 6.997835145935775, 
+            "fitem": {
+                "release": "1982", 
+                "url": "http://ia.media-imdb.com/images/M/MV5BMTU4NzQxMDkxMV5BMl5BanBnXkFtZTcwODA4NTUyMQ@@._V1._SY314_CR4,0,214,314_.jpg", 
+                "genres": [
+                    "Drama"
+                ], 
+                "title": "Le retour de Martin Guerre"
+            }
+        }, 
+        {
+            "item": "555", 
+            "score": 6.564793587127607, 
+            "fitem": {
+                "release": "1993", 
+                "url": "http://ia.media-imdb.com/images/M/MV5BMTI1Njg1NzAxMl5BMl5BanBnXkFtZTYwOTk5MDE5._V1._SX214_CR0,0,214,314_.jpg", 
+                "genres": [
+                    "Action", 
+                    "Crime", 
+                    "Romance"
+                ], 
+                "title": "True Romance"
+            }
+        }, 
+        {
+            "item": "1442", 
+            "score": 6.43705491901141, 
+            "fitem": {
+                "release": "1997", 
+                "url": "http://ia.media-imdb.com/images/M/MV5BMTk2MzE0NjQ0Nl5BMl5BanBnXkFtZTcwMzUxMjkxMQ@@._V1._SY314_CR3,0,214,314_.jpg", 
+                "genres": [
+                    "Drama"
+                ], 
+                "title": "Prefontaine"
+            }
+        }, 
+        {
+            "item": "394", 
+            "score": 6.326470621606187, 
+            "fitem": {
+                "release": "1967", 
+                "url": "http://ia.media-imdb.com/images/M/MV5BNTMxMDU3NTU0MF5BMl5BanBnXkFtZTcwOTg3NDAwMQ@@._V1._SY314_CR1,0,214,314_.jpg", 
+                "genres": [
+                    "Comedy"
+                ], 
+                "title": "In Cold Blood"
+            }
+        }, 
+        {
+            "item": "645", 
+            "score": 6.307615489490661, 
+            "fitem": {
+                "release": "1995", 
+                "url": "http://ia.media-imdb.com/images/M/MV5BMTU1OTk3MTM1Ml5BMl5BanBnXkFtZTcwMDU3ODIyMQ@@._V1._SY314_CR2,0,214,314_.jpg", 
+                "genres": [
+                    "Drama"
+                ], 
+                "title": "Nelly & Monsieur Arnaud"
+            }
+        }, 
+        {
+            "item": "253", 
+            "score": 6.234134077788519, 
+            "fitem": {
+                "release": "1994", 
+                "url": "http://ia.media-imdb.com/images/M/MV5BMTY4NzAxMjAzM15BMl5BanBnXkFtZTcwNjg0MjgxMQ@@._V1._SY314_CR10,0,214,314_.jpg", 
+                "genres": [
+                    "Drama", 
+                    "Horror"
+                ], 
+                "title": "Interview with the Vampire: The Vampire Chronicles"
+            }
+        }, 
+        {
+            "item": "1388", 
+            "score": 6.169741690002128, 
+            "fitem": {
+                "release": "1975", 
+                "url": "http://ia.media-imdb.com/images/M/MV5BMzcyMTQyOTU0Nl5BMl5BanBnXkFtZTcwNDY0NzE5Mw@@._V1._SY314_CR5,0,214,314_.jpg", 
+                "genres": [
+                    "Action", 
+                    "Horror", 
+                    "Thriller"
+                ], 
+                "title": "Jaws"
+            }
+        }, 
+        {
+            "item": "1105", 
+            "score": 6.092751200481957, 
+            "fitem": {
+                "release": "1996", 
+                "url": "http://ia.media-imdb.com/images/M/MV5BMTQxOTY3NTEzMV5BMl5BanBnXkFtZTcwMjA2MDAyMQ@@._V1._SY314_CR4,0,214,314_.jpg", 
+                "genres": [
+                    "Horror"
+                ], 
+                "title": "Children of the Corn: The Gathering"
+            }
+        }, 
+        {
+            "item": "1283", 
+            "score": 6.087774117071263, 
+            "fitem": {
+                "release": "1952", 
+                "url": "http://ia.media-imdb.com/images/M/MV5BMTMzNTA3MzU5N15BMl5BanBnXkFtZTYwMDQzMzE5._V1._SX214_CR0,0,214,314_.jpg", 
+                "genres": [
+                    "Western"
+                ], 
+                "title": "High Noon"
+            }
+        }, 
+        {
+            "item": "1169", 
+            "score": 6.004803659970033, 
+            "fitem": {
+                "release": "1998", 
+                "url": "http://ia.media-imdb.com/images/M/MV5BMTI5NzMwNjI1Ml5BMl5BanBnXkFtZTcwMDQ1MTQyMQ@@._V1._SY312_CR1,0,214,312_.jpg", 
+                "genres": [
+                    "Documentary"
+                ], 
+                "title": "Hollywoodism: Jews, Movies and the American Dream"
+            }
+        }
+    ]
+}
