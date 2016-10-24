@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 A sophisticated Recommender System that provides recommendations to users on different datasets available like GroupLens, Amazon, Goodreads, Coursera, using a hybrid recommender system engine. The framework allows the user to configure their recommender system with different ML algorithms to achieve the best recommendations possible. To assist a variety of datasets, the framework also included a Data Source component. Finally, the framework included a Feedback loop component to better the efficiency of the recommendations.
 =======
 # Recommender-System-Framework
