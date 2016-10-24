@@ -1,8 +1,5 @@
 <<<<<<< HEAD
 A sophisticated Recommender System that provides recommendations to users on different datasets available like GroupLens, Amazon, Goodreads, Coursera, using a hybrid recommender system engine. The framework allows the user to configure their recommender system with different ML algorithms to achieve the best recommendations possible. To assist a variety of datasets, the framework also included a Data Source component. Finally, the framework included a Feedback loop component to better the efficiency of the recommendations.
-
-
-An extensive literature survey enabled me to find out about the existing challenges in different Recommender System algorithms, and this project was consequently aimed at addressing these challenges. By coming up with a hybrid recommender engine, I was able to tackle the problems of traditional Collaborative and Content-based filtering algorithms. The recommender engine itself is built in Scala programming language , which I had to learn from scratch. The project also uses the scalable backend database 'MonogoDB' to store and train large datasets.
 =======
 # Recommender-System-Framework
 A sophisticated Recommender System that provides recommendations to users on different datasets available like GroupLens, Amazon, Goodreads, Coursera, using a hybrid recommender system engine. The framework allows the user to configure their recommender system with different ML algorithms to achieve the best recommendations possible. To assist a variety of datasets, the framework also included a Data Source component. Finally, the framework included a Feedback loop component to better the efficiency of the recommendations.
@@ -21,4 +18,3 @@ A sophisticated Recommender System that provides recommendations to users on dif
 2. Content-Based Filtering Algorithm - with item and/or user vectors 
 3. Support Vector Machines
 4. Bayesian classification Algorithm
->>>>>>> 304ff3d5c9d3225e5f9b937016bd7187cf841757
